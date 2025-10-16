@@ -11,7 +11,7 @@ Este projeto não tem fins comerciais. Todo o conteúdo foi criado para fins de 
 
 
 ## Arquivos incluídos
-- `podcastatividade.mp3`: PDF do Ebook sobre RPG de mesa e imagens.  
+- `EBOOK-RPG`: PDF do Ebook sobre RPG de mesa e imagens.  
 
 ## Como foi feito
 O PDF foi criado com apoio de ferramentas de inteligência artificial para:
